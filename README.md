@@ -4,60 +4,65 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Intern;Healthcare+Technology;PostgreSQL+Backend;Angular+Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+TypeScript)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Angular+Developer;Frontend+%26+Full+Stack+Engineer;Angular+19+%7C+RxJS+%7C+Signals;Spring+Boot+%7C+REST+APIs;Healthcare+%26+Enterprise+Apps)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jayakrishna333&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=sitaramireddy&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 </div>
 
-<div align="center">
+---
+
+## 🚀 About Me
+
+👋 Hi, I’m **Surya Kumari**, a passionate **Frontend / Full Stack Developer** with strong experience in **Angular** and enterprise-scale applications.
+
+I love building **high-performance, scalable, and user-friendly web apps**, especially in **healthcare & enterprise systems**.
+
+- 🅰️ Angular 16–19 • RxJS • Signals  
+- 🌐 REST APIs • Spring Boot • Java  
+- ☁️ AWS • S3 • Cloud integrations  
+- ⚡ Performance optimization & clean architecture  
+- 🏥 Healthcare dashboards & portals  
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=🚀%20About%20Me&fontSize=20&fontAlignY=60" />
+## 🛠️ Tech Stack
 
-**Software Engineering Intern at KariosMagus** 
-
-contributing to HealthMagus technology solutions across backend and frontend systems.
-
-I work on building, improving, and integrating scalable application features.
-
-- 🗄️ PostgreSQL database development & query optimization  
-- 🌐 Angular frontend development  
-- 🎨 Responsive UI with HTML5 & CSS3  
-- ⚡ Application logic using JavaScript & TypeScript  
-- 🔗 REST API integration  
-- 🐞 Debugging, testing & performance improvements  
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=🛠️%20Tech%20Stack&fontSize=20&fontAlignY=60" />
-
-### 💻 Frontend
+### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🗄️ Backend & Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-### ⚙️ Tools
+### Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=👋%20Welcome&fontSize=20&fontAlignY=60" />
+## ✨ What I’m Working On
 
-<img src="./assets/welcome-michael-scott.gif" width="480" alt="Welcome to my GitHub" />
-<p><em>Welcome to my GitHub 👋</em></p>
+- 🔄 Migrating Angular apps to **Signals**
+- 🚀 Optimizing image & API loading performance
+- 🔐 Secure role-based dashboards
+- 🧠 Exploring better state management patterns
 
 ---
 
-</div>
+## 📫 Connect With Me
+
+- 💼 **LinkedIn:** _(add your link here)_  
+- 📧 **Email:** _(add your email here)_  
+- 💻 **GitHub:** https://github.com/your-username  
+
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" />
