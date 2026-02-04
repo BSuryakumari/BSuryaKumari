@@ -19,6 +19,7 @@
 **Software Engineering Intern at HealthMagus** 
 
 contributing to healthcare technology solutions across backend and frontend systems.
+
 I work on building, improving, and integrating scalable application features.
 
 - 🗄️ PostgreSQL database development & query optimization  
