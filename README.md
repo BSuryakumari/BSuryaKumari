@@ -14,7 +14,7 @@
 
 <div align="center">
 
----
+---Name
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=🚀%20About%20Me&fontSize=20&fontAlignY=60" />
 
