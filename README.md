@@ -32,6 +32,8 @@ I love building **high-performance, scalable, and user-friendly web apps**, espe
 - ⚡ Performance optimization & clean architecture 
 - ☁️ AWS • S3 • Cloud integrations
 
+
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=🛠️%20Tech%20Stack&fontSize=20&fontAlignY=60" />
 
 ### 💻 Frontend
